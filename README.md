@@ -112,6 +112,21 @@ metricas_impacto:
 
 ---
 
+## 📈 Proyectos Destacados
+
+<div align="center">
+  
+| Proyecto | Tecnología | Descripción |
+|----------|------------|-------------|
+| 🛍️ **Marketplace de fotografias** | TypeScript, MongoDB, AWS | Mejoras y mantenimiento de plataforma eCommerce FOTI.ar|
+| 🏦 **Plataforma Bancaria** | Python, Serverless, GCP | Desarrollo para Banesco Panamá con chatbots e IA|
+| ✈️ **Gestión Aeroportuaria** | C#, MVC 5, Azure | Optimización 50% procesos mantenimiento aviones |
+| 💼 **Sistema Financiero** | C#, DB2, SQL Server | Plataforma web interna con APIs REST |
+
+</div>
+
+---
+
 ## 🎓 Certificaciones & Idiomas
 
 <div align="center">
@@ -133,7 +148,7 @@ metricas_impacto:
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-carias-a90495105/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielh95@hotmail.es)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.carias.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danic95)
 
 </div>
@@ -141,11 +156,7 @@ metricas_impacto:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=danic95&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>"El código limpio no es escrito por seguir un conjunto de reglas. Sabes que estás trabajando en código limpio cuando cada rutina que lees es más o menos lo que esperabas."</i>
+  <i>"La combinación perfecta de creatividad, lógica y habilidades matemáticas para resolver cualquier desafío tecnológico."</i>
   <br>
   <b>- Siempre mejorando, siempre aprendiendo 🚀</b>
 </div>
