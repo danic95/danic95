@@ -119,7 +119,7 @@ impact_metrics:
 | Project | Technology | Description |
 |---------|------------|-------------|
 | 🛍️ **Photography marketplace** | TypeScript, MongoDB, AWS | Improvements and maintenance on the eCommerce platform FOTI.ar |
-| 🏦 **Service Desk Platform** | .NET, REST APIs | Development for Banesco Panama with chatbots and AI |
+| 🏦 **Service Desk Platform** | Python, Serverless, GCP | Development for Banesco Panama with chatbots and AI |
 | ✈️ **Airport Management** | C#, MVC 5, Azure | 50% optimization in aircraft maintenance processes |
 | 💼 **Financial System** | C#, DB2, SQL Server | Internal web platform with REST APIs |
 
