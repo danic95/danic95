@@ -173,7 +173,7 @@ impact_metrics:
 # 👋 ¡Hola! Soy Daniel Rodriguez Carias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;6%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ingeniero+Full-Stack;6%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
