@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Daniel Rodriguez Carias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;5%2B+Years+of+Experience;Backend+%7C+Frontend+%7C+DevOps;From+Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;6%2B+Years+of+Experience;Backend+%7C+Frontend+%7C+DevOps;From+Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Software Engineer** focused on creating robust and scalable solutions. With over **5 years of experience** in the industry, I specialize in backend development while maintaining strong competencies in frontend and DevOps.
+I'm a passionate **Full-Stack Software Engineer** focused on creating robust and scalable solutions. With over **6 years of experience** in the industry, I specialize in backend development while maintaining strong competencies in frontend and DevOps.
 
 - 🔭 Currently working at **10Pearls LATAM** as Senior Full-Stack Engineer
 - 🌱 Exploring new technologies in **Go, Python, and cloud-native architectures**
@@ -173,12 +173,12 @@ impact_metrics:
 # 👋 ¡Hola! Soy Daniel Rodriguez Carias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;5%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;6%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
 
-Soy un **Ingeniero de Software Full-Stack** apasionado por crear soluciones robustas y escalables. Con más de **5 años de experiencia** en la industria, me especializo en el desarrollo backend mientras mantengo competencias sólidas en frontend y DevOps.
+Soy un **Ingeniero de Software Full-Stack** apasionado por crear soluciones robustas y escalables. Con más de **6 años de experiencia** en la industria, me especializo en el desarrollo backend mientras mantengo competencias sólidas en frontend y DevOps.
 
 - 🔭 Actualmente trabajando en **10Pearls LATAM** como Senior Full-Stack Engineer
 - 🌱 Explorando nuevas tecnologías en **Go, Python y arquitecturas cloud-native**
