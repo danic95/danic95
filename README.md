@@ -8,7 +8,7 @@
 
 I'm a passionate **Full-Stack Software Engineer** focused on creating robust and scalable solutions. With over **6 years of experience** in the industry, I specialize in backend development while maintaining strong competencies in frontend and DevOps.
 
-- 🔭 Currently working at **10Pearls LATAM** as Senior Full-Stack Engineer
+- 🔭 Currently working at **apexdynamics.io** as Senior Full-Stack Engineer
 - 🌱 Exploring new technologies in **Go, Python, and cloud-native architectures**
 - 💡 I enjoy solving complex problems with logical thinking and creativity
 - 🎯 Focused on writing clean, efficient, and well-documented code
@@ -74,29 +74,29 @@ I'm a passionate **Full-Stack Software Engineer** focused on creating robust and
 
 ```yaml
 current_role:
-  company: "10Pearls LATAM"
+  company: "apexdynamics.io"
   position: "Senior Full-Stack Engineer"
-  period: "May 2025 - Present"
+  period: "Oct 2025 - Present"
   location: "La Entrada, Copán, Honduras"
 
 previous_experience:
+  - company: "10Pearls LATAM"
+    achievements: 
+      - "Rapid response to critical tickets"
+      - "90% reduction in system downtime"
+      - "Performance and UX improvements"
+  
   - company: "Banesco Panama"
     achievements: 
       - "Automated chatbot development"
       - "90% reduction in system downtime"
       - "CI/CD and DevOps implementation"
-  
+
   - company: "BairesDev"
     achievements:
       - "Rapid response to critical tickets"
       - "Performance and UX improvements"
       - "90% downtime reduction"
-
-  - company: "Aeroman"
-    achievements:
-      - "50% optimization in team management"
-      - "90% scalability in admin module"
-      - "Seamless REST API integrations"
 
 impact_metrics:
   process_reduction: "90%"
@@ -121,10 +121,10 @@ impact_metrics:
   
 | Project | Technology | Description |
 |---------|------------|-------------|
+| 🛍️ **Assessment tool** | TypeScript, SQL Server, Azure | Improvements and maintenance on the HR profiling platform SCHEELEN |
 | 🛍️ **Photography marketplace** | TypeScript, MongoDB, AWS | Improvements and maintenance on the eCommerce platform FOTI.ar |
 | 🏦 **Service Desk Platform** | Python, Serverless, GCP | Development for Banesco Panama with chatbots and AI |
 | ✈️ **Airport Management** | C#, MVC 5, Azure | 50% optimization in aircraft maintenance processes |
-| 💼 **Financial System** | C#, DB2, SQL Server | Internal web platform with REST APIs |
 
 </div>
 
@@ -181,7 +181,7 @@ impact_metrics:
 
 Soy un **Ingeniero de Software Full-Stack** apasionado por crear soluciones robustas y escalables. Con más de **6 años de experiencia** en la industria, me especializo en el desarrollo backend mientras mantengo competencias sólidas en frontend y DevOps.
 
-- 🔭 Actualmente trabajando en **10Pearls LATAM** como Senior Full-Stack Engineer
+- 🔭 Actualmente trabajando en **apexdynamics.io** como Senior Full-Stack Engineer
 - 🌱 Explorando nuevas tecnologías en **Go, Python y arquitecturas cloud-native**
 - 💡 Me gusta resolver problemas complejos con pensamiento lógico y creatividad
 - 🎯 Enfocado en crear código limpio, eficiente y bien documentado
@@ -247,12 +247,18 @@ Soy un **Ingeniero de Software Full-Stack** apasionado por crear soluciones robu
 
 ```yaml
 experiencia_actual:
-  empresa: "10Pearls LATAM"
+  empresa: "apexdynamics.io"
   cargo: "Senior Full-Stack Engineer"
-  periodo: "mayo 2025 - presente"
+  periodo: "octubre 2025 - presente"
   ubicacion: "La Entrada, Copán, Honduras"
 
 experiencia_previa:
+  - empresa: "10Pearls LATAM"
+    logros: 
+      - "Respuesta rápida a tickets críticos"
+      - "90% reducción en tiempo de inactividad"
+      - "Mejoras de performance y UX"
+
   - empresa: "Banesco Panamá"
     logros: 
       - "Desarrollo de chatbots automatizados"
@@ -264,12 +270,6 @@ experiencia_previa:
       - "Respuesta rápida a tickets críticos"
       - "Mejoras de performance y UX"
       - "90% reducción tiempo de inactividad"
-
-  - empresa: "Aeroman"
-    logros:
-      - "50% optimización gestión equipos"
-      - "90% escalabilidad módulo administrativo"
-      - "Integración fluida APIs REST"
 
 metricas_impacto:
   reduccion_procesos: "90%"
@@ -294,10 +294,10 @@ metricas_impacto:
   
 | Proyecto | Tecnología | Descripción |
 |----------|------------|-------------|
+| 🛍️ **Plataforma de examenes** | TypeScript, SQL Server, Azure | Mejoras y mantenimiento de plataforma de perfiles RRHH SCHEELEN |
 | 🛍️ **Marketplace de fotografias** | TypeScript, MongoDB, AWS | Mejoras y mantenimiento de plataforma eCommerce FOTI.ar |
 | 🏦 **Plataforma Service Desk** | Python, Serverless, GCP | Desarrollo para Banesco Panamá con chatbots e IA|
 | ✈️ **Gestión Aeroportuaria** | C#, MVC 5, Azure | Optimización 50% procesos mantenimiento aviones |
-| 💼 **Sistema Financiero** | C#, DB2, SQL Server | Plataforma web interna con APIs REST |
 
 </div>
 
