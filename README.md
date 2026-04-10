@@ -1,26 +1,22 @@
-# 👋 Hi there! I'm Daniel Rodriguez Carias
+# Daniel Rodriguez Carias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;6%2B+Years+of+Experience;Backend+%7C+Frontend+%7C+DevOps;From+Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;6%2B+Years+of+Experience;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **Full-Stack Software Engineer** focused on creating robust and scalable solutions. With over **6 years of experience** in the industry, I specialize in backend development while maintaining strong competencies in frontend and DevOps.
+I am a Full-Stack Software Engineer with over 6 years of experience, currently working as a Senior Full-Stack Engineer at **apexdynamics.io**. My background is heavily rooted in backend development, with strong complementary experience in frontend systems and DevOps practices. 
 
-- 🔭 Currently working at **apexdynamics.io** as Senior Full-Stack Engineer
-- 🌱 Exploring new technologies in **Go, Python, and cloud-native architectures**
-- 💡 I enjoy solving complex problems with logical thinking and creativity
-- 🎯 Focused on writing clean, efficient, and well-documented code
-- 🤝 Natural collaborator who thrives in dynamic and innovative teams
+I value writing clean, maintainable code and building pragmatic solutions that scale effectively. Currently, I am expanding my expertise in Go, Python, and cloud-native architectures.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,25 +24,25 @@ I'm a passionate **Full-Stack Software Engineer** focused on creating robust and
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -57,7 +53,7 @@ I'm a passionate **Full-Stack Software Engineer** focused on creating robust and
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danic95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -70,75 +66,46 @@ I'm a passionate **Full-Stack Software Engineer** focused on creating robust and
 
 ---
 
-## 🏆 Professional Experience
+## Professional Experience
 
-```yaml
-current_role:
-  company: "apexdynamics.io"
-  position: "Senior Full-Stack Engineer"
-  period: "Oct 2025 - Present"
-  location: "La Entrada, Copán, Honduras"
+- **Senior Full-Stack Engineer** @ [apexdynamics.io] (Oct 2025 - Present)
+- **Full-Stack Engineer** @ [10Pearls LATAM]
+- **Software Engineer** @ [Banesco Panama]
+- **Software Engineer** @ [BairesDev]
 
-previous_experience:
-  - company: "10Pearls LATAM"
-    achievements: 
-      - "Rapid response to critical tickets"
-      - "90% reduction in system downtime"
-      - "Performance and UX improvements"
-  
-  - company: "Banesco Panama"
-    achievements: 
-      - "Automated chatbot development"
-      - "90% reduction in system downtime"
-      - "CI/CD and DevOps implementation"
+### Core Competencies
 
-  - company: "BairesDev"
-    achievements:
-      - "Rapid response to critical tickets"
-      - "Performance and UX improvements"
-      - "90% downtime reduction"
-
-impact_metrics:
-  process_reduction: "90%"
-  system_optimization: "50%"
-  scalability_improvement: "90%"
-```
-
-## 🤖 Specialties
-
-- **🔧 Backend Development**: REST APIs, microservices, scalable architectures
-- **⚡ Optimization**: Performance improvements in databases and systems
-- **🤝 Chatbots**: Development of automated conversational agents
-- **☁️ Cloud Migration**: Migration and modernization of legacy systems
-- **📱 Full-Stack**: End-to-end development from database to user interface
-- **🔄 CI/CD**: Implementation of automated deployment pipelines
+- **Backend Architecture:** RESTful APIs, Microservices, and system integrations
+- **Cloud & DevOps:** Migration of legacy systems, CI/CD pipelines, and cloud-native deployments
+- **Database Management:** Query optimization, data modeling, and performance tuning
+- **Full-Stack Development:** End-to-end implementation from database schema to UI
 
 ---
 
-## 📈 Featured Projects
+## Featured Projects
 
 <div align="center">
   
 | Project | Technology | Description |
 |---------|------------|-------------|
-| 🛍️ **Assessment tool** | TypeScript, SQL Server, Azure | Improvements and maintenance on the HR profiling platform SCHEELEN |
-| 🛍️ **Photography marketplace** | TypeScript, MongoDB, AWS | Improvements and maintenance on the eCommerce platform FOTI.ar |
-| 🏦 **Service Desk Platform** | Python, Serverless, GCP | Development for Banesco Panama with chatbots and AI |
-| ✈️ **Airport Management** | C#, MVC 5, Azure | 50% optimization in aircraft maintenance processes |
+| **Assessment Tool** | TypeScript, SQL Server, Azure | Development and maintenance for the SCHEELEN HR profiling platform. |
+| **Photography Marketplace** | TypeScript, MongoDB, AWS | Feature development and site optimization for FOTI.ar eCommerce. |
+| **Service Desk Platform** | Python, Serverless, GCP | Implemented AI-driven chatbots and workflow automations for Banesco Panama. |
+| **Airport Management** | C#, MVC 5, Azure | Streamlined aircraft maintenance tracking processes. |
 
 </div>
 
 ---
 
-## 🎓 Certifications & Languages
+## Certifications & Languages
 
 <div align="center">
 
-### 🏅 Certifications
+### Certifications
 - **Certified .NET Engineer**
-- **EF SET English Certificate** - 82/100 (C2 Proficient)
+- **EF SET English Certificate** (C2 Proficient)
 
-### 🌍 Languages
+### Languages
 - **Spanish**: Native
 - **English**: Full Professional Proficiency (C2)
 
@@ -146,7 +113,7 @@ impact_metrics:
 
 ---
 
-## 📫 Let's Connect!
+## Connect
 
 <div align="center">
   
@@ -156,162 +123,79 @@ impact_metrics:
 
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danic95&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
-  <i>"The perfect combination of creativity, logic, and math skills to solve any technological challenge."</i>
-  <br>
-  <b>- Always improving, always learning 🚀</b>
-</div>
-
 ---
 ---
 
-# 👋 ¡Hola! Soy Daniel Rodriguez Carias
+# Daniel Rodriguez Carias (Versión en Español)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ingeniero+Full-Stack;6%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy un **Ingeniero de Software Full-Stack** apasionado por crear soluciones robustas y escalables. Con más de **6 años de experiencia** en la industria, me especializo en el desarrollo backend mientras mantengo competencias sólidas en frontend y DevOps.
+Soy un Ingeniero de Software Full-Stack con más de 6 años de experiencia, actualmente trabajando como Senior Full-Stack Engineer en **apexdynamics.io**. Mi especialidad principal es el desarrollo backend, complementado con una sólida experiencia en sistemas frontend y prácticas de DevOps.
 
-- 🔭 Actualmente trabajando en **apexdynamics.io** como Senior Full-Stack Engineer
-- 🌱 Explorando nuevas tecnologías en **Go, Python y arquitecturas cloud-native**
-- 💡 Me gusta resolver problemas complejos con pensamiento lógico y creatividad
-- 🎯 Enfocado en crear código limpio, eficiente y bien documentado
-- 🤝 Colaborador nato que prospera en equipos dinámicos e innovadores
+Me enfoco en escribir código limpio y mantenible, y en construir soluciones escalables. Constantemente busco expandir mis conocimientos técnicos, actualmente profundizando en Go, Python y arquitecturas cloud-native.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-<div align="center">
-
-### 💻 Lenguajes de Programación
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & APIs
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+*(Ver las insignias en la versión en inglés arriba)*
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danic95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danic95&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danic95&theme=tokyonight" alt="GitHub Streak" />
-</div>
+*(Ver las estadísticas y gráficos en la versión en inglés arriba)*
 
 ---
 
-## 🏆 Experiencia Destacada
+## Experiencia Profesional
 
-```yaml
-experiencia_actual:
-  empresa: "apexdynamics.io"
-  cargo: "Senior Full-Stack Engineer"
-  periodo: "octubre 2025 - presente"
-  ubicacion: "La Entrada, Copán, Honduras"
+- **Senior Full-Stack Engineer** @ [apexdynamics.io] (Octubre 2025 - Presente)
+- **Full-Stack Engineer** @ [10Pearls LATAM]
+- **Software Engineer** @ [Banesco Panamá]
+- **Software Engineer** @ [BairesDev]
 
-experiencia_previa:
-  - empresa: "10Pearls LATAM"
-    logros: 
-      - "Respuesta rápida a tickets críticos"
-      - "90% reducción en tiempo de inactividad"
-      - "Mejoras de performance y UX"
+### Competencias Principales
 
-  - empresa: "Banesco Panamá"
-    logros: 
-      - "Desarrollo de chatbots automatizados"
-      - "90% reducción en tiempo de inactividad"
-      - "Implementación CI/CD y DevOps"
-  
-  - empresa: "BairesDev"
-    logros:
-      - "Respuesta rápida a tickets críticos"
-      - "Mejoras de performance y UX"
-      - "90% reducción tiempo de inactividad"
-
-metricas_impacto:
-  reduccion_procesos: "90%"
-  optimizacion_sistemas: "50%"
-  escalabilidad: "90%"
-```
-
-## 🤖 Especialidades
-
-- **🔧 Desarrollo Backend**: APIs REST, microservicios, arquitecturas escalables
-- **⚡ Optimización**: Mejora de rendimiento en bases de datos y sistemas
-- **🤝 ChatBots**: Desarrollo de agentes conversacionales automatizados
-- **☁️ Cloud Migration**: Migración y modernización de sistemas legacy
-- **📱 Full-Stack**: Desarrollo end-to-end desde base de datos hasta interfaz
-- **🔄 CI/CD**: Implementación de pipelines de despliegue automatizado
+- **Arquitectura Backend:** APIs REST, microservicios e integraciones de sistemas
+- **Cloud y DevOps:** Migración de sistemas legacy, pipelines CI/CD y despliegues en la nube
+- **Bases de Datos:** Optimización de consultas, modelado de datos y mejoras de rendimiento
+- **Desarrollo Full-Stack:** Implementación de extremo a extremo, desde el esquema de base de datos hasta la UI
 
 ---
 
-## 📈 Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
   
 | Proyecto | Tecnología | Descripción |
 |----------|------------|-------------|
-| 🛍️ **Plataforma de examenes** | TypeScript, SQL Server, Azure | Mejoras y mantenimiento de plataforma de perfiles RRHH SCHEELEN |
-| 🛍️ **Marketplace de fotografias** | TypeScript, MongoDB, AWS | Mejoras y mantenimiento de plataforma eCommerce FOTI.ar |
-| 🏦 **Plataforma Service Desk** | Python, Serverless, GCP | Desarrollo para Banesco Panamá con chatbots e IA|
-| ✈️ **Gestión Aeroportuaria** | C#, MVC 5, Azure | Optimización 50% procesos mantenimiento aviones |
+| **Herramienta de Evaluación** | TypeScript, SQL Server, Azure | Desarrollo y mantenimiento de la plataforma de perfiles de RRHH SCHEELEN. |
+| **Marketplace de Fotografía** | TypeScript, MongoDB, AWS | Desarrollo de funcionalidades y optimización para el eCommerce FOTI.ar. |
+| **Plataforma de Service Desk** | Python, Serverless, GCP | Implementación de chatbots con IA y automatización de flujos para Banesco Panamá. |
+| **Gestión Aeroportuaria** | C#, MVC 5, Azure | Optimización de procesos de seguimiento de mantenimiento de aeronaves. |
 
 </div>
 
 ---
 
-## 🎓 Certificaciones & Idiomas
+## Certificaciones e Idiomas
 
 <div align="center">
 
-### 🏅 Certificaciones
+### Certificaciones
 - **Certified .NET Engineer**
-- **EF SET English Certificate** - 82/100 (C2 Proficient)
+- **EF SET English Certificate** (C2 Proficient)
 
-### 🌍 Idiomas
+### Idiomas
 - **Español**: Nativo
 - **Inglés**: Profesional Completo (C2)
 
@@ -319,7 +203,7 @@ metricas_impacto:
 
 ---
 
-## 📫 ¡Conectemos!
+## Contacto
 
 <div align="center">
   
@@ -327,12 +211,4 @@ metricas_impacto:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.carias.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danic95)
 
-</div>
-
----
-
-<div align="center">
-  <i>"La combinación perfecta de creatividad, lógica y habilidades matemáticas para resolver cualquier desafío tecnológico."</i>
-  <br>
-  <b>- Siempre mejorando, siempre aprendiendo 🚀</b>
 </div>
