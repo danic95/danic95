@@ -1,12 +1,12 @@
 # Daniel Rodriguez Carias
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;6%2B+Years+of+Experience;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer;7%2B+Years+of+Experience;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-I am a Full-Stack Software Engineer with over 6 years of experience, currently working as a Senior Full-Stack Engineer at **apexdynamics.io**. My background is heavily rooted in backend development, with strong complementary experience in frontend systems and DevOps practices. 
+I am a Full-Stack Software Engineer with over 7 years of experience, currently working as a Senior Full-Stack Engineer at **apexdynamics.io**. My background is heavily rooted in backend development, with strong complementary experience in frontend systems and DevOps practices. 
 
 I value writing clean, maintainable code and building pragmatic solutions that scale effectively. Currently, I am expanding my expertise in Go, Python, and cloud-native architectures.
 
