@@ -133,12 +133,12 @@ I value writing clean, maintainable code and building pragmatic solutions that s
 # Daniel Rodriguez Carias (Versión en Español)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ingeniero+Full-Stack;6%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Ingeniero+Full-Stack;7%2B+A%C3%B1os+de+Experiencia;Backend+%7C+Frontend+%7C+DevOps;Honduras+%F0%9F%87%AD%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 ## Sobre mí
 
-Soy un Ingeniero de Software Full-Stack con más de 6 años de experiencia, actualmente trabajando como Senior Full-Stack Engineer en **apexdynamics.io**. Mi especialidad principal es el desarrollo backend, complementado con una sólida experiencia en sistemas frontend y prácticas de DevOps.
+Soy un Ingeniero de Software Full-Stack con más de 7 años de experiencia, actualmente trabajando como Senior Full-Stack Engineer en **apexdynamics.io**. Mi especialidad principal es el desarrollo backend, complementado con una sólida experiencia en sistemas frontend y prácticas de DevOps.
 
 Me enfoco en escribir código limpio y mantenible, y en construir soluciones escalables. Constantemente busco expandir mis conocimientos técnicos, actualmente profundizando en Go, Python y arquitecturas cloud-native.
 
